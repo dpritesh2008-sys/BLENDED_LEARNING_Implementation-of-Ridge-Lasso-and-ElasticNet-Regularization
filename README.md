@@ -9,10 +9,13 @@ To implement Ridge, Lasso, and ElasticNet regularization models using polynomial
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Linear Regression is used to predict continuous values by establishing a linear relationship between input features and the target variable.
+
+2.Ridge Regression improves linear regression by adding L2 regularization to reduce overfitting.
+
+3.Lasso Regression applies L1 regularization to shrink coefficients and perform feature selection.
+
+4.ElasticNet Regression combines both L1 and L2 regularization to balance feature selection and model stability.
 
 ## Program:
 ```
