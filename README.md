@@ -123,8 +123,11 @@ plt.show()
 ```
 
 ## Output:
-<img width="296" height="498" alt="553880495-7b715028-4da4-4cc3-8d29-d22bf831a48d" src="https://github.com/user-attachments/assets/29830465-a92a-4bb5-adc4-f5aac3d08fc2" />
-<img width="296" height="498" alt="553880668-45fa3e7f-2864-4ba1-b9ce-3723b7275713" src="https://github.com/user-attachments/assets/31c99db2-4dbe-466a-8ce3-d40b086e9182" />
+<img width="888" height="213" alt="image" src="https://github.com/user-attachments/assets/a5cd42cb-d41e-42d5-831e-77ca2798f8e6" />
+<img width="460" height="51" alt="image" src="https://github.com/user-attachments/assets/857a2a0b-bbde-4db0-9c72-d4c61e971b28" />
+<img width="296" height="498" alt="image" src="https://github.com/user-attachments/assets/c57e7ba6-c26f-4498-979e-da88038c7ecd" />
+<img width="296" height="498" alt="image" src="https://github.com/user-attachments/assets/67942852-0903-4a5c-ae16-47179167eed7" />
+
 
 
 
